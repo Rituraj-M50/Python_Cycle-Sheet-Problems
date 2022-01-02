@@ -19,3 +19,5 @@ M3_CSQ2 - One fine day, Mr. X travels to his office by the taxi, a taxi driver c
 First 10 Km Rs15/km
 Next 90 Km Rs 8/km
 After that Rs6/km
+
+M3_CSQ5 - Construct a python program to calculate sum of digits of a given integer number until the sum becomes a single digit number.
