@@ -7,3 +7,9 @@ M12_CSQ2 - Milk is collected for sales from nearest ‘n’ farms to the milk bo
 600 ml then the total quantity of milk in booth is 10 liters 600 ml.
 
 M12_CSQ3 - Write a python program for converting the given two-digit number into its corresponding Roman numeral.
+
+M3_CSQ1 - Write a python program to accept the annual income of an employee and display the income tax to be paid at the end of the year according to the following criteria :
+Annual income (in Rs) Income Tax:
+> 1000000                             4 %
+> 500000 and <= 1000000               2 %
+<= 500000                             NIL
