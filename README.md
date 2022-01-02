@@ -13,3 +13,9 @@ Annual income (in Rs) Income Tax:
 > 1000000                             4 %
 > 500000 and <= 1000000               2 %
 <= 500000                             NIL
+
+M3_CSQ2 - One fine day, Mr. X travels to his office by the taxi, a taxi driver charges the bill as follows. Write a Python program to accept the kilometers traveled by Mr. X and calculate his taxi bill.
+
+First 10 Km Rs15/km
+Next 90 Km Rs 8/km
+After that Rs6/km
