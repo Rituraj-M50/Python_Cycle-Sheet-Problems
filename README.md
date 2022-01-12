@@ -21,3 +21,9 @@ Next 90 Km Rs 8/km
 After that Rs6/km
 
 M3_CSQ5 - Construct a python program to calculate sum of digits of a given integer number until the sum becomes a single digit number.
+
+M12_CSQ4 - Write a  Python program to input two complex numbers and add the same to produce the result. After producing the result, print the real part and imaginary part separately.
+
+M12_CSQ5 - Write a Python program to convert the given integer to the corresponding binary, octal and hexadecimal values and print the same.
+
+M4_CSQ2 - Write a python program using list to implement reverse polish notation calculator. In reverse polish notation, mathematical expressions are written with the operator following its operands. For example, 3 + 4 becomes 3 4 +. Order of operations is entirely based on the ordering of the operators and operands. To write 3 + (4 ∗ 2), we would write 3 4 2 ∗ + in RPN. The expressions are evaluated from left to right. Evaluate the expression and display the result.
